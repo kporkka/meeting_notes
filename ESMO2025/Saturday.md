@@ -8,18 +8,6 @@ Tools:
 
 TrialMAtchAI
 
-<img src="/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_082635210.jpg" alt="PXL_20251018_082635210" style="zoom: 25%;" />
-
-![PXL_20251018_082730520](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_082730520.jpg)
-
-![PXL_20251018_082837516](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_082837516.jpg)
-
-![PXL_20251018_082922339](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_082922339.jpg)
-
-![PXL_20251018_082956087](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_082956087.jpg)
-
-
-
 PyTrials
 
 MedMatch
@@ -34,51 +22,65 @@ Pragmatic clin trials - AI helps to design
 
 Silent clinical trials - prospective
 
+![PXL_20251018_082635210](pics_sat/PXL_20251018_082635210.jpg)
+
+![PXL_20251018_082710344](pics_sat/PXL_20251018_082710344.jpg)
+
+![PXL_20251018_082730520](pics_sat/PXL_20251018_082730520.jpg)
+
+![PXL_20251018_082739801](pics_sat/PXL_20251018_082739801.jpg)
+
+![PXL_20251018_082837516](pics_sat/PXL_20251018_082837516.jpg)
+
+![PXL_20251018_082922339](pics_sat/PXL_20251018_082922339.jpg)
+
+![PXL_20251018_082956087](pics_sat/PXL_20251018_082956087.jpg)
+
 ## AI for genomic precision medicine in clinical trials
 
 Mihaela Aldea (Villejuif, France)
 
 erinomainen esitys, ks nauhoite + diat
 
-![PXL_20251018_083409899](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_083409899.jpg)
 
-![PXL_20251018_083521485](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_083521485.jpg)
 
-![PXL_20251018_083533583](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_083533583.jpg)
+## ![PXL_20251018_083409899](pics_sat/PXL_20251018_083409899.jpg)
 
-![PXL_20251018_083554804](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_083554804.jpg)
+![PXL_20251018_083521485](pics_sat/PXL_20251018_083521485.jpg)
 
-![PXL_20251018_083652770](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_083652770.jpg)
+![PXL_20251018_083533583](pics_sat/PXL_20251018_083533583.jpg)
 
-![PXL_20251018_083757900](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_083757900.jpg)
+![PXL_20251018_083554804](pics_sat/PXL_20251018_083554804.jpg)
 
-![PXL_20251018_083845369](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_083845369.jpg)
+![PXL_20251018_083652770](pics_sat/PXL_20251018_083652770.jpg)
 
-![PXL_20251018_083934548](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_083934548.jpg)
+![PXL_20251018_083757900](pics_sat/PXL_20251018_083757900.jpg)
 
-![PXL_20251018_084007990](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_084007990.jpg)
+![PXL_20251018_083845369](pics_sat/PXL_20251018_083845369.jpg)
 
-![PXL_20251018_084114298](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_084114298.jpg)
+![PXL_20251018_083934548](pics_sat/PXL_20251018_083934548.jpg)
 
-![PXL_20251018_084143322](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_084143322.jpg)
+![PXL_20251018_084007990](pics_sat/PXL_20251018_084007990.jpg)
 
-![PXL_20251018_084232318](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_084232318.jpg)
+![PXL_20251018_084114298](pics_sat/PXL_20251018_084114298.jpg)
 
-![PXL_20251018_084306167](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_084306167.jpg)
+![PXL_20251018_084143322](pics_sat/PXL_20251018_084143322.jpg)
 
-![PXL_20251018_084308861](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_084308861.jpg)
+![PXL_20251018_084232318](pics_sat/PXL_20251018_084232318.jpg)
 
-![PXL_20251018_084430490](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_084430490.jpg)
+![PXL_20251018_084306167](pics_sat/PXL_20251018_084306167.jpg)
 
-![PXL_20251018_084520440](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_084520440.jpg)
+![PXL_20251018_084308861](pics_sat/PXL_20251018_084308861.jpg)
 
-![PXL_20251018_084614549](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_084614549.jpg)
+![PXL_20251018_084430490](pics_sat/PXL_20251018_084430490.jpg)
 
-![PXL_20251018_084706575](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_084706575.jpg)
+![PXL_20251018_084520440](pics_sat/PXL_20251018_084520440.jpg)
 
-![PXL_20251018_084803401](/home/kporkka/git_repos/meeting_notes/ESMO2025/pics_sat/PXL_20251018_084803401.jpg)
+![PXL_20251018_084614549](pics_sat/PXL_20251018_084614549.jpg)
 
-## **Digital** infrastructure for clinical trials
+![PXL_20251018_084706575](pics_sat/PXL_20251018_084706575.jpg)
+
+![PXL_20251018_084803401](pics_sat/PXL_20251018_084803401.jpg)
 
 Ines Vaz-Luis (Villejuif, France)
 
