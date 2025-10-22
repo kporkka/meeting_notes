@@ -29,6 +29,8 @@ Synthetic control arm RCTs. Pragmatic clin trials - AI helps to design
 
 Mihaela Aldea (Villejuif, France)
 
+[Link to presentation video](https://drive.google.com/file/d/1TcSmoW_aZt0CGxr6inpCRQCKTz4gwNPr/view?usp=drive_link)
+
 
 
 ### Digital infrastructure for clinical trials (I. Vaz-Luis)
@@ -49,6 +51,10 @@ A fantastic, visionary presentation
 Papers referenced:
 
 [Hallmarks_of_AI.pdf](files/Hallmarks_of_AI.pdf) 
+
+See also her ESMO2025 translational research [award presentation](https://drive.google.com/file/d/1n8S8TZZqcBdOmGdsmifm1xQKrj4biTOp/view?usp=drive_link)
+
+
 
 Key slides:
 
