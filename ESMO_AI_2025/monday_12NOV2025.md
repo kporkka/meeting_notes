@@ -5,34 +5,42 @@ Mon Nov 12
 ## Multimodal AI assistants for molecular tumour boards
 L. Verlingue , Centre Léon Bérard, Lyon, France
 
-- BioMedParse automatic RECIST 1.1
-
+- BioMedParse radiology statements automatically to RECIST 1.1
 - Clinical trial matching using local llm 
+- Early discontinuation predictor 
+- Simplification of MTB reports for patients using LLMs, see e-poster
 
-- Early discontinuation Predictor 
-
-- Simplification of MTB reports for patients using llms, see poster!!
-
-  
+[Link to presentation](https://drive.google.com/file/d/19txvSemE_k1wh7b7BVvK_HcjTr7Fp9SY/view?usp=sharing)
 
 ## Multimodal integration: Next generation of RWD for decision support systems
 A. Prelaj , Fondazione IRCCS - Istituto Nazionale dei Tumori, Milan, Italy
 
-Link to presentation 
+[Link to presentation](https://drive.google.com/file/d/1P3g2o9unCM5lR0kMINK8J9_b0-TIcvpB/view?usp=drive_link)
 
 ## Multimodal AI: Is more always better?
 J. Lipkova , UCI Health - University of California Irvine, Orange, United States of America
 
 
 
+[Link to presentation](https://drive.google.com/file/d/1ljArq1sEvZQyl8dWKehNOcxdfoLfhDJl/view?usp=drive_link)
+
 ## Bringing clarity: Multimodal explainability for patients and doctors
 V. Miskovic , Politecnico di Milano, Milan, Italy
 
+
+
+[Link to presentation](https://drive.google.com/file/d/16px58_lYT-Td2GlePf2iUolkjjVg9a99/view?usp=drive_link)
+
 ## 172MO - Deep Learning on Histopathological Images to Predict Breast Cancer Recurrence Risk and Chemotherapy Benefit
 G. Shamai, Technion - Israel Institute of Technology, Haifa, Israel
+
+Link to presentation
+
 ## 173MO - Fully Automated Multi-Modal Fusion Pipeline for Prognosis Prediction of Gliomas Based on MRIs and Whole slide Images
 X. Wu, Guangzhou Overseas Chinese Hospital/The First Affiliated Hospital of Jinan University,
 Guangzhou, China
+
+Link to presentation
 
 # Title: Digital technologies in the real world of oncology
 Moderation: Maria Alice Franzoi, France; Rodrigo Dienstmann, Spain
