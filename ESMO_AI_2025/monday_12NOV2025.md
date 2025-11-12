@@ -48,14 +48,22 @@ Moderation: Maria Alice Franzoi, France; Rodrigo Dienstmann, Spain
 ## How digital health is transforming care pathways: Digital decision making, care coordination and remote monitoring 
 M.A. Franzoi, Institut Gustave Roussy, Villejuif, France
 
+Link to presentation
+
 ## How digital health is transforming clinical research: Decentralised and digital enabled clinical trials
 P. Harris, Vanderbilt University Medical Center, Nashville, United States of America
+
+Link to presentation
 
 ## Role of wearable digital technologies in monitoring health status
 R. Picard, MIT - Massachusetts Institute of Technology, Cambridge, United States of America
 
+[Link to presentation](https://drive.google.com/file/d/12OVAoUpHUgbV46-h0s7pGu0tbVBaP5DT/view?usp=sharing)
+
 ## Regulatory barriers for real-world translation of digital technologies
 A.D. Stern, Hasso Plattner Institute, Potsdam, Germany
+
+Link to presentation
 
 ## 70MO - Patient Engagement with AI-Tailored Content in a Multinational Digital Health
 Intervention for Breast Cancer: Exploratory Results from the CINDERELLA Trial
