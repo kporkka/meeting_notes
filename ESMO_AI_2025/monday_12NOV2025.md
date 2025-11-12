@@ -18,7 +18,7 @@ L. Verlingue , Centre Léon Bérard, Lyon, France
 ## Multimodal integration: Next generation of RWD for decision support systems
 A. Prelaj , Fondazione IRCCS - Istituto Nazionale dei Tumori, Milan, Italy
 
-
+Link to presentation 
 
 ## Multimodal AI: Is more always better?
 J. Lipkova , UCI Health - University of California Irvine, Orange, United States of America
