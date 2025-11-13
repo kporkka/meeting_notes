@@ -9,6 +9,8 @@ L. Verlingue , Centre Léon Bérard, Lyon, France
 - Clinical trial matching using local llm 
 - Early discontinuation predictor 
 - Simplification of MTB reports for patients using LLMs, see e-poster
+- Working currently only with synthetic data as as the French legal framework for AI use not clear still! Lack of good synthetic datasets, opportunity for Synthia?
+   
 
 [Link to presentation](https://drive.google.com/file/d/19txvSemE_k1wh7b7BVvK_HcjTr7Fp9SY/view?usp=sharing)
 
@@ -62,6 +64,9 @@ R. Picard, MIT - Massachusetts Institute of Technology, Cambridge, United States
 
 ## Regulatory barriers for real-world translation of digital technologies
 A.D. Stern, Hasso Plattner Institute, Potsdam, Germany
+
+- regulation direct researchers/SMEs to target easier/less relevant questions/challenges because they are easier to get approved; this is not the right incentives, direction of research
+-   
 
 Link to presentation
 
