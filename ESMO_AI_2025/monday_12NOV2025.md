@@ -66,9 +66,10 @@ R. Picard, MIT - Massachusetts Institute of Technology, Cambridge, United States
 A.D. Stern, Hasso Plattner Institute, Potsdam, Germany
 
 - regulation direct researchers/SMEs to target easier/less relevant questions/challenges because they are easier to get approved; this is not the right incentives, direction of research
--   
 
-Link to presentation
+  
+
+[Link to presentation](https://drive.google.com/file/d/15iGa0rLlnsNfkTyFdIke6hwfQuRCeTZs/view?usp=drive_link)
 
 ## 70MO - Patient Engagement with AI-Tailored Content in a Multinational Digital Health
 Intervention for Breast Cancer: Exploratory Results from the CINDERELLA Trial
