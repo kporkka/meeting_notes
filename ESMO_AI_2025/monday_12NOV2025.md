@@ -2,7 +2,7 @@ Mon Nov 12
 
 # Title: Multimodal AI for clinical decision support
 
-## Multimodal AI assistants for molecular tumour boards
+## 1. Multimodal AI assistants for molecular tumour boards
 L. Verlingue , Centre Léon Bérard, Lyon, France
 
 - BioMedParse radiology statements automatically to RECIST 1.1
@@ -12,21 +12,42 @@ L. Verlingue , Centre Léon Bérard, Lyon, France
 
 [Link to presentation](https://drive.google.com/file/d/19txvSemE_k1wh7b7BVvK_HcjTr7Fp9SY/view?usp=sharing)
 
-## Multimodal integration: Next generation of RWD for decision support systems
+## 2. Multimodal integration: Next generation of RWD for decision support systems
 A. Prelaj , Fondazione IRCCS - Istituto Nazionale dei Tumori, Milan, Italy
+
+- ESMO guidelines for AI
 
 [Link to presentation](https://drive.google.com/file/d/1P3g2o9unCM5lR0kMINK8J9_b0-TIcvpB/view?usp=drive_link)
 
-## Multimodal AI: Is more always better?
+## 3. Multimodal AI: Is more always better?
 J. Lipkova , UCI Health - University of California Irvine, Orange, United States of America
 
+- Takeaways: Need to build multimodal datasets
+- more not always better
+- multimodal: no benefit for survival prediction in their work/use-case
 
 
 [Link to presentation](https://drive.google.com/file/d/1ljArq1sEvZQyl8dWKehNOcxdfoLfhDJl/view?usp=drive_link)
 
-## Bringing clarity: Multimodal explainability for patients and doctors
+## 4. Bringing clarity: Multimodal explainability for patients and doctors
 V. Miskovic , Politecnico di Milano, Milan, Italy
 
+- Quote: "All models are wrong, bu yours ara also useless" -> build useful models
+- good overview of xAI -> see table in presentatoin
+  - feature importance
+  - saliency
+  - attention
+  - example based, counterfactual
+- the most important critics:
+  - overuse of post-hoc
+	- lack of eval standards
+	- instability variability
+	- explanations do not make sense
+	- lack domain specific context
+	- risk of over-reliance
+- run a trial data +/- AI to doctors:
+		- use of xAI increases the probability of predicting the true DCR by 37%
+- has build a nice gui and used LLM for explanation, explaining different prediction models used etc
 
 
 [Link to presentation](https://drive.google.com/file/d/16px58_lYT-Td2GlePf2iUolkjjVg9a99/view?usp=drive_link)
@@ -72,4 +93,5 @@ T. Schinköthe, University of the Bundeswehr, Neubiberg, Germany
 
 ## 174MO - A randomized trial to assess impact of teleconsultation on understanding, satisfaction and compliance of patients with lung cancer
 N. Singh, PGIMER - Post Graduate Institute of Medical Education and Research, Chandigarh, India
+
 
