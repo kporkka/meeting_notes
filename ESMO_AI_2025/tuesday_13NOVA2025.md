@@ -67,7 +67,8 @@ Link to presentation
 ## AI for clinical trial matching, patient accrual and retention
 K. Kehl, Dana-Farber Cancer Institute, Harvard Medical School, Boston, United States of America
 
-
+- very good presentation
+- need to be proactive
 
 Link to presentation
 
