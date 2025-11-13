@@ -68,7 +68,7 @@ Link to presentation
 K. Kehl, Dana-Farber Cancer Institute, Harvard Medical School, Boston, United States of America
 
 - very good presentation
-- need to be proactive
+- need to be proactive - not reactive (e.g. request from a pharma company) -  in finding matching patients to key trials. This needs to be automated
 
 Link to presentation
 
