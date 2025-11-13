@@ -75,7 +75,8 @@ Link to presentation
 ## Clinical trial design in the age of AI
 R. Dienstmann, VHIO - Vall d'Hebron Institute of Oncology, Barcelona, Spain
 
-
+- redundancy of copy-paste inclusion criteria for trials
+- use cases for synthetic data
 
 Link to presentation
 
