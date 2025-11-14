@@ -200,7 +200,10 @@ Link to presentation
 ## Realtime (Hemato-)ONcology DAta (datagateway)
 J. Versluis, Erasmus MC - Erasmus University Rotterdam, Rotterdam, Netherlands
 
-
+- focused curation of super-high-quality AML-related data to be used as a control arm for HOVON trials that enable early discontinuation
+- major role of the iNKL, Netherlands Cancer Reg 
+- need/use case for realtime data?
+- data models? FHIR?
 
 Link to presentation
 
