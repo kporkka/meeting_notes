@@ -70,7 +70,7 @@ K. Kehl, Dana-Farber Cancer Institute, Harvard Medical School, Boston, United St
 - very good presentation
 - need to be proactive - not reactive (e.g. request from a pharma company) -  in finding matching patients to key trials. This can and needs to be automated
 
-Link to presentation
+[Link to presentation](https://drive.google.com/file/d/1U9m4-El-XFshM_Z_7xwcyO5Vo7w-eKPI/view?usp=drive_link)
 
 ## Clinical trial design in the age of AI
 R. Dienstmann, VHIO - Vall d'Hebron Institute of Oncology, Barcelona, Spain
