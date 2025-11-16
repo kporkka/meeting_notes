@@ -143,36 +143,34 @@ F. Corso, Fondazione IRCCS Istituto Nazionale dei Tumori di Milano, Milan, Italy
 
 
 
-Link to presentation
+[Link to presentation](https://drive.google.com/file/d/1WNaq9JACzuULdEir7uAwpRMxN4nvFWs5/view?usp=drive_link)
 
 ## Explainability of multimodal AI
 L. Cerdá-Alberich, Health Research Institute Hospital La Fe, Valencia, Spain
 
 
 
-Link to presentation
+[Link to presentation](https://drive.google.com/file/d/1q6YvwT4ThAofvTDIf_fGeV6gy4D4gEXA/view?usp=drive_link)
 
 ## Trust in human-AI collaboration
 F. Cnossen, University of Groningen, Groningen, Netherlands
 
 
 
-Link to presentation
+[Link to presentation](https://drive.google.com/file/d/1d_oEXM1KaM14fd1rYeh9UnzZETzNtX6Z/view?usp=drive_link)
 
 ## Agentic AI for cancer research and trials
 D. Bitterman, Brigham and Women's Hospital, Boston, United States of America
 
 
 
-Link to presentation
+[Link to presentation](https://drive.google.com/file/d/1Wp5_JJqpFuLo6kVPTg_WrGI3R01neSAU/view?usp=drive_link)
 
-## 71MO - Collaborative Human-Agent for Therapeutic Decision-Making In Cancer
-Immunotherapy prediction
+## 71MO - Collaborative Human-Agent for Therapeutic Decision-Making In Cancer Immunotherapy prediction
+
 F. Corso, Fondazione IRCCS Istituto Nazionale dei Tumori di Milano, Milan, Italy
 
-
-
-Link to presentation
+[Link to presentation](https://drive.google.com/file/d/1hs0CWrbUef0ph-I6AQYTGAjF50uKRpih/view?usp=drive_link)
 
 ## 175MO - Evaluation of an AI-Enabled Platform for Cancer Prevention and Genetic Risk
 Assessment in Unaffected Individuals: A Randomized Study
@@ -180,7 +178,13 @@ D. Mondal, Apollo Multi-Speciality Hospital, Kolkata, India
 
 
 
-Link to presentation
+[Link to presentation](https://drive.google.com/file/d/1c55HSY5zA9Ml0wku0FckExy1le98Vrdf/view?usp=drive_link)
+
+## Discussion - Q&A
+
+[Link to presentation](https://drive.google.com/file/d/1woWzpk_XHMaEqd91BPvVzKFEll49aFWY/view?usp=drive_link)
+
+
 
 # Type: Educational session. Title: AI to unlock the data vault
 
