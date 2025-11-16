@@ -1,4 +1,4 @@
-Tuesday November 13, 2025
+Thursday November 13, 2025
 
 # Type: Educational session. Title: AI for a better world
 Moderation: Suzette Delaloge, France; Ghada Zakout, Netherlands
@@ -195,7 +195,7 @@ A. Chaudhari, Stanford University, Stanford, United States of America
 
 
 
-Link to presentation
+[Link to presentation](https://drive.google.com/file/d/1TZkbq9_FY90YtdbSX5_deOaLbKDnSAi9/view?usp=drive_link)
 
 ## Realtime (Hemato-)ONcology DAta (datagateway)
 J. Versluis, Erasmus MC - Erasmus University Rotterdam, Rotterdam, Netherlands
@@ -205,36 +205,36 @@ J. Versluis, Erasmus MC - Erasmus University Rotterdam, Rotterdam, Netherlands
 - need/use case for realtime data?
 - data models? FHIR?
 
-Link to presentation
+[Link to presentation](https://drive.google.com/file/d/1XG2HORQipapMTSJM35krWu19-ug5-GfK/view?usp=drive_link)
 
 ## Deep-diving into EHRs with AI
 C. Chung, MD Anderson Cancer Center, Houston, United States of America
 
 
 
-Link to presentation
+[Link to presentation](https://drive.google.com/file/d/1rO1lKZY4FwkHvuI1jl5O6o1mfPY1dL4j/view?usp=drive_link)
 
 ## Open source AI for clinical data
 A. Pearson, The University of Chicago, Chicago, United States of America
 
 
 
-Link to presentation
+[Link to presentation](https://drive.google.com/file/d/1tEn5P8PFDYh5AWXPe1uH06mVTGzEa2T3/view?usp=drive_link)
 
 ## 176MO - What unstructured EHR data via natural language processing (NLP) adds to oncology real-world evidence: a multi-center OMOP-CDM assessment in lung cancer
 C. Oeste, LynxCare Clinical Informatics N.V., Leuven, Belgium
 
 
 
-Link to presentation
+[Link to presentation](https://drive.google.com/file/d/1xcqhftXqCS273AvtZ7I97y7AyW0AWJuh/view?usp=drive_link)
 
-## 177MO - Multi-Center Validation of an Artificial Intelligence Electronic Health Records
-Extraction Pipeline
+## 177MO - Multi-Center Validation of an Artificial Intelligence Electronic Health Records Extraction Pipeline
+
 K. Zarca, Lifen, Paris, France
 
 
 
-Link to presentation
+[Link to presentation](https://drive.google.com/file/d/1RP9a7BUc7aWIGwI60w6-DrBR9Yk-INGn/view?usp=drive_link)
 
 
 
